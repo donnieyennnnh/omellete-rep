@@ -116,3 +116,9 @@ tr {
   font-weight: 700;
   color: hsl(332, 51%, 32%);
 }
+
+@media screen and (max-width: 480px) {
+  .container{
+    width:100%;
+  }
+}
