@@ -1,0 +1,118 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-color: antiquewhite;
+  
+}
+
+main{
+  background-color: white;
+  margin-right:40rem;
+  margin-bottom: 40rem;
+  margin-left:40rem;
+  padding: 3%;
+  margin-top: 10rem;
+  border-radius: 15px;
+  
+}
+
+h1 {
+  padding-top: 10px;
+  font-family: "Young Serif";
+  font-weight: 550;
+  font-style: normal;
+  font-size: xx-large;
+  color: hsl(24, 5%, 18%);
+}
+
+h2 {
+  font-family: "Young Serif";
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(14, 45%, 36%);
+}
+p{
+  font-family: "Outfit", sans-serif;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+img {
+  padding-left: 0rem;
+  width:30rem;
+  border-radius: 20px;
+}
+
+
+.preperation{
+  background-color: hsl(330, 100%, 98%);
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+}
+
+
+.inside-prep{
+  font-family: "Outfit", sans-serif;
+  padding:1rem;
+}
+
+li {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 8px;
+    padding: 0px 20px;
+}
+ul, ol {
+  padding:10px 20px;
+}
+
+.first-word{
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  color: hsl(24, 5%, 18%);
+
+}
+
+h3{
+  padding-left: 0px;
+  color: hsl(332, 51%, 32%);
+}
+
+.li-for-prep{
+  padding-top:1rem;
+  padding-left: 2rem;
+  
+}
+
+
+td {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: eggshell; 
+  padding: .75rem 2rem;
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+tr {
+  border-bottom: 1px solid lightgrey;
+}
+.stats {
+  font-weight: 700;
+  color: hsl(332, 51%, 32%);
+}
